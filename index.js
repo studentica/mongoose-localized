@@ -1,7 +1,7 @@
 /**
- * mongoose-multilang
+ * mongoose-localized
  *
- * Plugin for mongoose ORM that supports multilingual resources
+ * Plugin for mongoose ORM that supports localized resources with multiple values (synonyms)
  *
  * @author Florian Reifschneider <florian@studentica.co>
  */
