@@ -1,0 +1,38 @@
+{
+  "name": "mongoose-localized",
+  "description": "Plugin for mongoose ORM that supports localized resources",
+  "version": "0.1.0",
+  "author": {
+    "name": "Florian Reifschneider",
+    "email": "florian@studentica.co"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "internationalization",
+    "i18n",
+    "language",
+    "localization",
+    "l10n"
+  ],
+  "contributors": [
+    {
+      "name": "Florian Reifschneider",
+      "email": "flore2003@googlemail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:studentica/mongoose-localized.git"
+  },
+  "bugs": {
+    "url": "https://github.com/studentica/mongoose-localized/issues"
+  },
+  "homepage": "https://github.com/studentica/mongoose-localized",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
